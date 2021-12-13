@@ -10,8 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hurricanemark/boilerplate-npm.git",
-		"name": "hurricanemark",
-		"email": "hurricanemark@gmail.com"
+		"url": "https://github.com/hurricanemark/boilerplate-npm.git"
 	}
 }
